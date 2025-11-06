@@ -49,8 +49,3 @@
 </div>
 
 ---
-
-### 💬 Um pouco mais sobre mim
-> “Acredito que dados contam histórias — meu papel é traduzi-las em decisões inteligentes.”
-
----
