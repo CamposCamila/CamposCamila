@@ -1,13 +1,18 @@
 ## Olá, eu sou Camila Campos 👋
 
 🎓 Estudante de **Administração de Empresas** pela **UFRRJ**.  
-🌱 Atualmente estou aprendendo sobre **Análise de Dados** **Python** e **Inteligência Artificial**.
+
+🌱 Atualmente estou aprendendo sobre **Python** e **Inteligência Artificial**.
 
 💡 Apaixonada por transformar dados em **insights estratégicos** que apoiam decisões inteligentes.
-📊 Desenvolvo projetos utilizando **Excel**, **Power BI** e **SQL** voltados para análise, modelagem e visualização de dados.
 
-📍 **Localização:** Cabo Frio - RJ  
+📊 Desenvolvo projetos utilizando **Excel**, **Power BI**, **Power Query**, e **SQL** voltados para análise, modelagem e visualização de dados.
+
+
+📍 **Localização:** Rio de Janeiro - RJ 
+
 🎯 **Objetivo:** Estágio ou oportunidade na área de **Análise de Dados**
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
