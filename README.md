@@ -1,12 +1,20 @@
 ## Olá, eu sou Camila Campos 👋
 
-🎓 Estudante de **Administração de Empresas** pela **UFRRJ** com foco em **Análise de Dados**.  
-🌱 Atualmente estou aprendendo sobre **Python** e **Inteligência Artificial**.
-💡 Apaixonada por transformar dados em **insights estratégicos** que apoiam decisões inteligentes.  
+🎓 Estudante de **Administração de Empresas** pela **UFRRJ**.  
+🌱 Atualmente estou aprendendo sobre **Análise de Dados** **Python** e **Inteligência Artificial**.
+
+💡 Apaixonada por transformar dados em **insights estratégicos** que apoiam decisões inteligentes.
 📊 Desenvolvo projetos utilizando **Excel**, **Power BI** e **SQL** voltados para análise, modelagem e visualização de dados.
 
 📍 **Localização:** Cabo Frio - RJ  
 🎯 **Objetivo:** Estágio ou oportunidade na área de **Análise de Dados**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
@@ -21,20 +29,10 @@
 
 | Ferramenta | Nível de Proficiência |
 |-------------|----------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="25"/> **Excel** | ![80%](https://progress-bar.dev/80/?title=Avançado&width=200&color=00b300&suffix=%) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="25"/> **Power BI** | ![70%](https://progress-bar.dev/70/?title=Intermediário&width=200&color=f2c94c&suffix=%) |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="25" alt="Excel"/> **Excel** | ![80%](https://progress-bar.dev/80/?title=Avançado&width=200&color=00b300&suffix=%) |
+| 🟨 **Power BI** | ![70%](https://progress-bar.dev/70/?title=Intermediário&width=200&color=f2c94c&suffix=%) |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="25"/> **Power Query** | ![75%](https://progress-bar.dev/75/?title=Intermediário&width=200&color=1E90FF&suffix=%) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="25"/> **SQL** | ![65%](https://progress-bar.dev/65/?title=Intermediário&width=200&color=007bff&suffix=%) |
-
----
-
-### ⚙️ Tecnologias e Ferramentas que uso
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
 
 ---
 
