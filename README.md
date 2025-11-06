@@ -2,15 +2,11 @@
 
 🎓 Estudante de **Administração de Empresas** pela **UFRRJ**.  
 
-🌱 Atualmente estou aprendendo sobre **Python** e **Inteligência Artificial**.
-
 💡 Apaixonada por transformar dados em **insights estratégicos** que apoiam decisões inteligentes.
 
 📊 Desenvolvo projetos utilizando **Excel**, **Power BI**, **Power Query**, e **SQL** voltados para análise, modelagem e visualização de dados.
 
-
 📍 **Localização:** Rio de Janeiro - Brasil 
-
 🎯 **Objetivo:** Estágio ou oportunidade na área de **Análise de Dados**
 
 
@@ -35,9 +31,9 @@
 | Ferramenta | Nível de Proficiência |
 |-------------|----------------------|
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="25" alt="Excel"/> **Excel** | ![80%](https://progress-bar.dev/80/?title=Avançado&width=200&color=00b300&suffix=%) |
-| 🟨 **Power BI** | ![70%](https://progress-bar.dev/70/?title=Intermediário&width=200&color=f2c94c&suffix=%) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Power_Query_logo.png" width="25" alt="Power Query"/> **Power Query** | ![75%](https://progress-bar.dev/75/?title=Intermediário&width=200&color=1E90FF&suffix=%) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="25"/> **SQL** | ![55%](https://progress-bar.dev/55/?title=Intermediário&width=200&color=007bff&suffix=%) |
+| 🟨 **Power BI** | ![75%](https://progress-bar.dev/75/?title=Intermediário&width=200&color=f2c94c&suffix=%) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Power_Query_logo.png" width="25" alt="Power Query"/> **Power Query** | ![85%](https://progress-bar.dev/85/?title=Intermediário&width=200&color=1E90FF&suffix=%) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="25"/> **SQL** | ![60%](https://progress-bar.dev/60/?title=Intermediário&width=200&color=007bff&suffix=%) |
 
 ---
 
