@@ -7,6 +7,7 @@
 📊 Desenvolvo projetos utilizando **Excel**, **Power BI**, **Power Query**, e **SQL** voltados para análise, modelagem e visualização de dados.
 
 📍 **Localização:** Rio de Janeiro - Brasil 
+
 🎯 **Objetivo:** Estágio ou oportunidade na área de **Análise de Dados**
 
 
