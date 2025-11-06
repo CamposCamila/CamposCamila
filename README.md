@@ -37,13 +37,23 @@
 
 ---
 
+### ⚙️ Tecnologias e Ferramentas que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+---
+
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
 
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilascampos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilascampos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=camilascampos&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
@@ -54,4 +64,3 @@
 > “Acredito que dados contam histórias — meu papel é traduzi-las em decisões inteligentes.”
 
 ---
-
