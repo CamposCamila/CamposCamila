@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilascampos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilascampos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://streak-stats.demolab.com?user=camilascampos&theme=tokyonight&hide_border=true&background=0D1117)
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamposCamila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCamila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=CamposCamila&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
