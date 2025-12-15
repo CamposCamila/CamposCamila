@@ -4,7 +4,7 @@
 
 💡 Apaixonada por transformar dados em **insights estratégicos** que apoiam decisões inteligentes
 
-📊 Desenvolvo projetos utilizando **Excel**, **Power BI**, **Power Query**, e **SQL** voltados para análise, modelagem e visualização de dados
+📊 Desenvolvo projetos utilizando **Excel**, **Power BI**, **Power Query**, **SQL**, e **IA** voltados para análise, modelagem e visualização de dados
 
 📍 **Localização:** Rio de Janeiro - Brasil 
 
