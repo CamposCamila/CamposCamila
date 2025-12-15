@@ -1,6 +1,6 @@
 ## Olá, eu sou Camila Campos 👋
 
-🎓 Estudante de **Administração de Empresas** pela **UFRRJ**  
+🎓 Estudante de **Administração de Empresas** pela **Universidade Federal Rural do Rio de Janeiro**  
 
 💡 Apaixonada por transformar dados em **insights estratégicos** que apoiam decisões inteligentes
 
